@@ -1,4 +1,4 @@
-# Perception and Vision for a Humanoid robot
+# Perception and Vision for a Humanoid Robot
 
 ## Contenido
 
