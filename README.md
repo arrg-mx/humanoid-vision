@@ -32,6 +32,18 @@
 
 **Legacy/Opensource Projects, Applications and, Libraries**
 
+1. **Georg No's** [Github profile](https://github.com/NovoG93)
+   - *vision_msgs_rviz_plugins* [Github repositories](https://github.com/NovoG93/vision_msgs_rviz_plugins). This repo contains a RVIZ2 plugin to display [vision_msgs](https://github.com/ros-perception/vision_msgs/tree/ros2) for **ROS 2 humble**.
+1. **ROS Perception** [Github Profile](https://github.com/ros-perception)
+   - *vision_opencv* [Github repository](https://github.com/ros-perception/vision_opencv).
+	> ros2 vision_opencv contains packages to interface ROS 2 with [OpenCV](http://opencv.org/) which is a library designed for computational efficiency and strong focus for real time computer vision applications. This repository contains:
+	>	* `cv_bridge`: Bridge between ROS 2 image messages and OpenCV image representation
+	> 	* `image_geometry`: Collection of methods for dealing with image and pixel geometry
+	> 	* `opencv_tests`: Integration tests to use the capability of the packages with opencv
+	> 	* `vision_opencv`: Meta-package to install both `cv_bridge` and `image_geometry`
+   - *ROS Vision Messages* [Github repository](https://github.com/ros-perception/vision_msgs/tree/ros2). This package defines a set of messages to unify computer vision and object detection efforts in ROS.
+   - *Browse repositories*
+In order to use ROS 2 with OpenCV, please see the details within [cv_bridge](https://github.com/ros-perception/vision_opencv/tree/ros2/cv_bridge) package.
 1. **Programming Humanoid Robot In Python** [Github repository](https://github.com/DAInamite/programming-humanoid-robot-in-python)
 1. **sciurus17_ros** [GitHub repository](https://github.com/rt-net/sciurus17_ros)
 1. **humanoid_base_footprint** [Github repository](https://github.com/ros-sports/humanoid_base_footprint) - ROS2 Humble
