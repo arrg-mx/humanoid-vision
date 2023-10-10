@@ -64,3 +64,5 @@ In order to use ROS 2 with OpenCV, please see the details within [cv_bridge](htt
 	- *Compliance control for stabilizing the humanoid on the changing slope based on terrain inclination estimation* [Research Gate Article](https://www.researchgate.net/publication/282589044_Compliance_control_for_stabilizing_the_humanoid_on_the_changing_slope_based_on_terrain_inclination_estimation) 
 	[Fig. 1](https://www.researchgate.net/figure/The-compliant-humanoid-robot-COMAN_fig1_282589044)
 1. ***(Opcional)*** *ROS2_Walking_Pattern_Generator* [Github repository](https://github.com/open-rdc/ROS2_Walking_Pattern_Generator). Walking Pattern Generator using ROS_2 for Humanoid Robots *(Under Construction...)*
+
+**Nota:** Pueden usar la siguiente [plantilla](https://github.com/mrg-mex/mrg-plantilla-repositorio) como referencia de cómo empezar a estructurar su repositorio; así como una plantilla en Markdown para su reporte.
