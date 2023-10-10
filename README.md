@@ -29,6 +29,19 @@
 	- **Can you chase a tennis ball with ROS?** [YT video](https://www.youtube.com/watch?v=gISSSbYUZag)
 	- **How to get your robot to see in 3D! (Depth Cameras in ROS)** [YT video](https://www.youtube.com/watch?v=T9xZ22i9-Ys)
 		- **Extra** - *realsense-ros* [Github repository](https://github.com/IntelRealSense/realsense-ros)
+1. **Muhammad Luqman** [@robotisim YT channel](https://www.youtube.com/@robotisim) **Browse videos and playlists**
+	- **ROS camera sensor and understanding its properties** [YT video](https://www.youtube.com/watch?v=mG0FHhhfmw8)
+1. **robot design & simulation** [YT channel](https://www.youtube.com/@kabilankb2003)
+   	- **How the robot will see in 3D | Depth camera interface with ros | REALSENSE depth camera D435i** [YT video](https://www.youtube.com/watch?v=_uvGxKpRnqo) 
+1. [robot mania's YT channel](https://www.youtube.com/@robotmania8896)
+	- **Object detection in Gazebo using Yolov5 and ROS2** [YT video](https://www.youtube.com/watch?v=594Gmkdo-_s)
+	- [Google Drive](https://drive.google.com/drive/folders/1xC-gFmWQybQGagxtu8WxGqpFS-1Ek-V2) *3 files*
+		- **Refs to:** *YOLOv5* [Github repository](https://github.com/ultralytics/yolov5)
+1. [Kihwan Ryoo' YT channel](https://www.youtube.com/@kihwanryoo8369)
+	1. *ROS Manipulation - Pick and Place demo* [YT video](https://www.youtube.com/watch?v=mtZAKtnwhGA)
+	1. *ROS Manipulation - Hit the Ball demo* [YT video](https://www.youtube.com/watch?v=Sb9Ap8X50mk)
+	1. **Source Code:** [Github repository](https://github.com/Kihwan-Ryoo/ros_manipulator_hit_the_ball) 
+
 
 **Legacy/Opensource Projects, Applications and, Libraries**
 
