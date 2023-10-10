@@ -36,6 +36,8 @@
 	- **Object detection in Gazebo using Yolov5 and ROS2** [YT video](https://www.youtube.com/watch?v=594Gmkdo-_s)
 	- [Google Drive](https://drive.google.com/drive/folders/1xC-gFmWQybQGagxtu8WxGqpFS-1Ek-V2) *3 files*
 		- **Refs to:** *YOLOv5* [Github repository](https://github.com/ultralytics/yolov5)
+  	- **How to Use YOLOv8 with ROS2** [YT video](https://www.youtube.com/watch?v=XqibXP4lwgA)
+   		- **REfs to:** Yolov8_ROS2 [Google drive](https://drive.google.com/drive/folders/1FPhKoNdOjgIh4To6dgvO8z0UgDsVEfGV)
 1. [Kihwan Ryoo' YT channel](https://www.youtube.com/@kihwanryoo8369)
 	1. *ROS Manipulation - Pick and Place demo* [YT video](https://www.youtube.com/watch?v=mtZAKtnwhGA)
 	1. *ROS Manipulation - Hit the Ball demo* [YT video](https://www.youtube.com/watch?v=Sb9Ap8X50mk)
