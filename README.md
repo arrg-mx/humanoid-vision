@@ -1,4 +1,4 @@
-# Perception and Vision for a Humanoid Robot
+# ARRG: Curso ROS2 Humble, 2024-I - Perception and Vision for a Humanoid Robot
 
 ## Contenido
 
