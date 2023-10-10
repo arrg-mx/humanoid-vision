@@ -28,7 +28,6 @@
 	- **How to use Cameras in ROS (Sim Camera and Pi Camera)** [YT video](https://www.youtube.com/watch?v=A3nw2M47K50)
 	- **Can you chase a tennis ball with ROS?** [YT video](https://www.youtube.com/watch?v=gISSSbYUZag)
 	- **How to get your robot to see in 3D! (Depth Cameras in ROS)** [YT video](https://www.youtube.com/watch?v=T9xZ22i9-Ys)
-		- **Extra** - *realsense-ros* [Github repository](https://github.com/IntelRealSense/realsense-ros)
 1. **Muhammad Luqman** [@robotisim YT channel](https://www.youtube.com/@robotisim) **Browse videos and playlists**
 	- **ROS camera sensor and understanding its properties** [YT video](https://www.youtube.com/watch?v=mG0FHhhfmw8)
 1. **robot design & simulation** [YT channel](https://www.youtube.com/@kabilankb2003)
@@ -45,6 +44,7 @@
 
 **Legacy/Opensource Projects, Applications and, Libraries**
 
+1. *Intel* **Realsense:** *realsense-ros* [Github repository](https://github.com/IntelRealSense/realsense-ros)
 1. **Georg No's** [Github profile](https://github.com/NovoG93)
    - *vision_msgs_rviz_plugins* [Github repositories](https://github.com/NovoG93/vision_msgs_rviz_plugins). This repo contains a RVIZ2 plugin to display [vision_msgs](https://github.com/ros-perception/vision_msgs/tree/ros2) for **ROS 2 humble**.
 1. **ROS Perception** [Github Profile](https://github.com/ros-perception)
