@@ -56,7 +56,7 @@
 	1. *ROS Manipulation - Pick and Place demo* [YT video](https://www.youtube.com/watch?v=mtZAKtnwhGA)
 	1. *ROS Manipulation - Hit the Ball demo* [YT video](https://www.youtube.com/watch?v=Sb9Ap8X50mk)
 	1. **Source Code:** [Github repository](https://github.com/Kihwan-Ryoo/ros_manipulator_hit_the_ball) 
-
+1. **Robótica: Sensor cámara en Gazebo y ROS #1** [YT video](https://www.youtube.com/watch?v=SLe74btrPb8)
 
 **Legacy/Opensource Projects, Applications and, Libraries**
 
