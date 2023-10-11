@@ -81,4 +81,6 @@ In order to use ROS 2 with OpenCV, please see the details within [cv_bridge](htt
 	[Fig. 1](https://www.researchgate.net/figure/The-compliant-humanoid-robot-COMAN_fig1_282589044)
 1. ***(Opcional)*** *ROS2_Walking_Pattern_Generator* [Github repository](https://github.com/open-rdc/ROS2_Walking_Pattern_Generator). Walking Pattern Generator using ROS_2 for Humanoid Robots *(Under Construction...)*
 
-**Nota:** Pueden usar la siguiente [plantilla](https://github.com/mrg-mex/mrg-plantilla-repositorio) como referencia de cómo empezar a estructurar su repositorio; así como una plantilla en Markdown para su reporte.
+---
+
+**Nota:** Usar la siguiente [plantilla](https://github.com/arrg-mx/fmtos-docs/blob/main/fmto-reporte-curso.md) para su reporte así como la [plantilla del repositorio](https://github.com/mrg-mex/mrg-plantilla-repositorio) como una guía para organizar sus archivos y referencia del formato Markdown para diferentes elementos que necesiten integrar en su reporte.
